@@ -1,0 +1,29 @@
+button {
+            background-color:deepskyblue;
+        }
+body {
+    text-align:center;
+    }
+.A{
+    margin: 20px;
+    
+}
+.B{
+    margin: 20px;
+}
+.C{
+    margin: 20px;
+}
+.D{
+    margin: 20px;
+}
+.flex-container1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
